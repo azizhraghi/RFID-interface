@@ -1,0 +1,17 @@
+C:\Users\aziz\source\repos\RFID_interface\bin\Debug\net8.0-windows\RFID_interface.exe
+C:\Users\aziz\source\repos\RFID_interface\bin\Debug\net8.0-windows\RFID_interface.deps.json
+C:\Users\aziz\source\repos\RFID_interface\bin\Debug\net8.0-windows\RFID_interface.runtimeconfig.json
+C:\Users\aziz\source\repos\RFID_interface\bin\Debug\net8.0-windows\RFID_interface.dll
+C:\Users\aziz\source\repos\RFID_interface\bin\Debug\net8.0-windows\RFID_interface.pdb
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\RFID_interface.Form1.resources
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\RFID_interface.Resources.resources
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\RFID_interface.vbproj.GenerateResource.cache
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\RFID_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\RFID_interface.AssemblyInfoInputs.cache
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\RFID_interface.AssemblyInfo.vb
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\RFID_interface.vbproj.CoreCompileInputs.cache
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\RFID_interface.dll
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\refint\RFID_interface.dll
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\RFID_interface.pdb
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\RFID_interface.genruntimeconfig.cache
+C:\Users\aziz\source\repos\RFID_interface\obj\Debug\net8.0-windows\ref\RFID_interface.dll
